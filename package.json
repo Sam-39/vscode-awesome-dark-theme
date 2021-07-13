@@ -1,0 +1,28 @@
+{
+    "name": "awesome-dark-theme",
+    "displayName": "Awesome Dark",
+    "version": "0.4.0",
+    "description": "A COLORFUL, dark theme for VS Code, High contrast.",
+    "publisher": "iSSamQa",
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/ico.png",
+    "galleryBanner": {
+        "color": "#A600C8",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "repository": "https://github.com/iSSamQa/Awesome-dark-theme.git",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Awesome Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Awesome-Dark-color-theme.json"
+            }
+        ]
+    }
+}
