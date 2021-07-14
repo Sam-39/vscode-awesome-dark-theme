@@ -3,7 +3,7 @@
 
 A COLORFUL, dark theme for VS Code, High contrast
 
-##  Peview
+##  Preview
 #### HTML
 ![HTML](https://user-images.githubusercontent.com/32095783/125513538-6085864e-37a3-4560-829c-d1cbbb31d265.png)
 #### CSS
