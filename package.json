@@ -1,8 +1,8 @@
 {
-    "name": "awesome-dark",
-    "displayName": "Awesome Dark Theme",
-    "version": "0.1.1",
-    "description": "A COLORFUL, dark theme for VS Code, High contrast.",
+    "name": "awesome-dark-theme",
+    "displayName": "Awesome Dark",
+    "version": "0.1.2",
+    "description": "Beautiful Colors, Elegant background, Simply AWESOME",
     "publisher": "iSSamQa",
     "categories": [
         "Themes"
