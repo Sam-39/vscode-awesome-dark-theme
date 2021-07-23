@@ -2546,7 +2546,14 @@
 				"punctuation.section.embedded.begin.php",
 				"punctuation.section.embedded.end.php",
 				"meta.tag.template.value.twig",
-				"punctuation.section.tag.twig",
+				"punctuation.section.tag.twig"
+			],
+			"settings": {
+				"foreground": "#5ab8e5"
+			}
+		},
+		{
+			"scope": [
                 "entity.tag.tagbraces.django",
                 "storage.type.templatetag.django",
                 "text.html.django"
