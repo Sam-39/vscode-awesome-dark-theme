@@ -2554,14 +2554,6 @@
 		},
 		{
 			"scope": [
-                "entity.tag.tagbraces.django"
-			],
-			"settings": {
-				"foreground": "#5ab8e5"
-			}
-		},
-		{
-			"scope": [
 				"text.html.basic meta.brace.round.js",
 				"text.html.basic meta.brace.square.js",
 				"text.html.basic punctuation.separator.comma.js",
@@ -2868,6 +2860,16 @@
 			],
 			"settings": {
 				"foreground": "#FF61FD"
+			}
+		},
+        {
+			"scope": [
+                "entity.tag.tagbraces.django",
+                "storage.type.templatetag.django",
+                "text.html.django",
+			],
+			"settings": {
+				"foreground": "#5ab8e5"
 			}
 		}
 	]
