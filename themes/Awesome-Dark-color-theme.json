@@ -2865,8 +2865,7 @@
         {
 			"scope": [
                 "entity.tag.tagbraces.django",
-                "storage.type.templatetag.django",
-                "text.html.django",
+                "storage.type.templatetag.django"
 			],
 			"settings": {
 				"foreground": "#5ab8e5"
