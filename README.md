@@ -5,15 +5,9 @@ A COLORFUL dark theme for VS Code.
 
 ##  Preview
 
-![HTML](https://user-images.githubusercontent.com/32095783/125513538-6085864e-37a3-4560-829c-d1cbbb31d265.png)
-
-![CSS](https://user-images.githubusercontent.com/32095783/125513593-201ff819-b4e3-41b4-b3f3-b35aaaf13f92.png)
-
-![Python](https://user-images.githubusercontent.com/32095783/125513651-e3ce5461-53d1-4860-b258-12669731fa3d.png)
-
-![JavaScript](https://user-images.githubusercontent.com/32095783/125513692-012b6f6f-b49b-41ff-9249-731ea313b1c9.png)
-
-
+![HTML](https://user-images.githubusercontent.com/32095783/128565981-3f58ae7a-a47c-4849-8db2-5307d34a0f5a.png)
+![CSS](https://user-images.githubusercontent.com/32095783/128566029-3517e153-8082-48c5-b0d0-fe29434acec1.png)
+![PY](https://user-images.githubusercontent.com/32095783/128566050-3e891686-7e0a-4c30-ab01-69ea375f6179.png)
+![JS](https://user-images.githubusercontent.com/32095783/128566068-7d8c92cf-abdb-4300-b37e-6f20ba4b4ad6.png)
 
 #### License: [MIT](https://github.com/iSSamQa/vscode-awesome-dark-theme/blob/master/LICENSE)
-

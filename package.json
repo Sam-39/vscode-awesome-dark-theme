@@ -1,8 +1,8 @@
 {
     "name": "awesome-dark-theme",
     "displayName": "Awesome Dark",
-    "version": "0.1.7",
-    "description": "Beautiful Colors, Elegant background, Simply AWESOME",
+    "version": "0.1.8",
+    "description": "Beautiful Colors, Elegant background",
     "publisher": "iSSamQa",
     "categories": [
         "Themes"
@@ -17,12 +17,10 @@
     },
     "repository": "https://github.com/iSSamQa/vscode-awesome-dark-theme.git",
     "contributes": {
-        "themes": [
-            {
-                "label": "Awesome Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Awesome-Dark-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Awesome Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Awesome-Dark-color-theme.json"
+        }]
     }
 }
