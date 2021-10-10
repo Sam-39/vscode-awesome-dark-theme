@@ -1716,7 +1716,7 @@
 				"inline-dollars"
 			],
 			"settings": {
-				"foreground": "#303030"
+				"foreground": "#D4D4D4"
 			}
 		},
 		{
@@ -2860,6 +2860,14 @@
 			"settings": {
 				"foreground": "#FF61FD"
 			}
-		}
+		},
+        {
+            "scope": [
+            "support.class.component.js"
+            ],
+            "settings": {
+				"foreground": "#5AB8E5"
+			}
+        }
 	]
 }

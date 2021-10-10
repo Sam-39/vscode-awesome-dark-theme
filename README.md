@@ -1,7 +1,7 @@
 
 # Awesome Dark Theme !
 
-A COLORFUL dark theme for VS Code.
+A COLORFUL Dark theme for VS Code.
 
 ##  Preview
 
