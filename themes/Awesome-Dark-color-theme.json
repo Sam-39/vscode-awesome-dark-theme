@@ -2871,22 +2871,6 @@
         },
         {
             "scope": [
-                "support.class.component.js",
-                "entity.name.tag.js",
-                "meta.tag.js",
-                "meta.jsx.children.js",
-                "meta.tag.without-attributes.js",
-                "meta.block.js",
-                "meta.function.js",
-                "source.js",
-                "support.class"
-            ],
-            "settings": {
-                "foreground": "#4ec9b0"
-            }
-        },
-        {
-            "scope": [
                 "variable.other.property.js",
             ],
             "settings": {

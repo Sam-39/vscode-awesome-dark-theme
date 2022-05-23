@@ -1,13 +1,13 @@
 {
     "name": "awesome-dark-theme",
     "displayName": "Awesome Dark",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Beautiful Colors, Elegant background",
     "publisher": "iSSamQa",
     "categories": [
         "Themes"
     ],
-    "icon": "images/ico.png",
+    "icon": "images/icon.png",
     "galleryBanner": {
         "color": "#A600C8",
         "theme": "dark"
